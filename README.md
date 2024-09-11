@@ -13,11 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Abhishek-8459&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-8459&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-8459&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-8459&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
