@@ -17,7 +17,7 @@
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `abhishek-8459` or specified user
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: ${{ abhishek-8459 }}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
