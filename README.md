@@ -4,7 +4,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/abhishekGaikwad96?ext=heatmap)
 
 # 💫 About Me:
-👋 Hi, I'm Abhishek Gaikwad!<br>💻 I'm a second-year IT student passionate about coding.<br>☕ Skilled in Java and always eager to learn more.<br>🚀 Open to contributing to open-source projects.<br>🌟 Stay tuned for some exciting projects coming soon!<br>🎯 Let's collaborate and build something amazing together.<br>
+👋 Hi, I'm Abhishek Gaikwad!<br>💻 I'm a third-year IT student passionate about coding.<br>☕ Skilled in Java and always eager to learn more.<br>🚀 Open to contributing to open-source projects.<br>🌟 Stay tuned for some exciting projects coming soon!<br>🎯 Let's collaborate and build something amazing together.<br>
 
 
 # 💻 Tech Stack:
